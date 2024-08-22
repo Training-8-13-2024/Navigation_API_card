@@ -1,1 +1,2 @@
-# Navigation_API_card
+# NavigationAPI
+Example code for Navigation and API integration
